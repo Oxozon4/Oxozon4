@@ -2,7 +2,8 @@
  * 🖐 Hi! I'm a Front-End developer striving to grow myself in software development.
  * 📚 I love learning new things & discovering new technologies!
  * 💡 I'm currently improving my React skills and learning Back-End.
- * 🌐 Contact me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcin-hebda-585642196) 
+ * 🌐 Contact me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-hebda-585642196) 
+
 
 # 💻 Tech Stack:
 Front-End: </br></br>
