@@ -29,7 +29,4 @@ Tools: </br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-📊 GitHub Stats: </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxozon4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
